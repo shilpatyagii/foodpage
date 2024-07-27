@@ -92,7 +92,7 @@ body{
 #home::before {
     content: " ";
     position: absolute;
-    background-image: url('../WALLPAPER.jpg');
+    background-image: url('WALLPAPER.jpg');
     height: 600px;
     width: 100%;
     z-index: -1;
